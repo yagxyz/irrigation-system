@@ -1,2 +1,2 @@
 ### Irrigation System
-Code to control irrigation times for a garden
+Code to control irrigation times for a garden.
